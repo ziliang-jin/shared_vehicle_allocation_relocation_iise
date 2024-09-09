@@ -1,7 +1,7 @@
 # shared_vehicle_allocation_relocation_iise
 The data and codes in this project are used in the paper "Integrated Vehicle Allocation and Relocation for Shared Micromobility under Competition and Demand Uncertainty" by Ziliang Jin, Kai Pan, Zuo-Jun Max Shen, and Wenxin Xu. *IISE Transactions*.
 
-## data
+## Data
 The folder "data" includes the data used in the paper:
 * demand.csv: average trip demands
 * period.csv: trip duration across service regions
@@ -9,7 +9,7 @@ The folder "data" includes the data used in the paper:
 * folder "demand_cluster": includes three demand scenarios in $$S$$
 * folder "demand_1000": includes all demand scenarios used in Appendix J
 
-## code
+## Code
 * The folder "src_demand_partition_allocation" includes CPP codes for Problems (13) and (14) that determine the share of disloyal consumers based on allocation:
   * basic_parameter.h and basic_parameter.cpp: define input parameters of models
   * IO.h and IO.cpp: define functions for input and output
@@ -31,5 +31,5 @@ The folder "data" includes the data used in the paper:
   * problem.h and problem.cpp
   * variables.h and variables.cpp
  
-## requirement
+## Requirement
 * A CPLEX solver is necessary for solving the models in the paper.
