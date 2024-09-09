@@ -31,5 +31,5 @@ The folder "data" includes the data used in the paper:
   * problem.h and problem.cpp
   * variables.h and variables.cpp
  
-## requirements
+## requirement
 * A CPLEX solver is necessary for solving the models in the paper.
