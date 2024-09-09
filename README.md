@@ -10,21 +10,21 @@ The folder "data" includes the data used in the paper:
 * folder "demand_1000": includes all demand scenarios used in Appendix J
 
 ## code
-* The folder "src_demand_partition_allocation" includes codes for Problems (13) and (14) that determine the share of disloyal consumers based on allocation:
+* The folder "src_demand_partition_allocation" includes CPP codes for Problems (13) and (14) that determine the share of disloyal consumers based on allocation:
   * basic_parameter.h and basic_parameter.cpp: define input parameters of models
   * IO.h and IO.cpp: define functions for input and output
   * main.cpp: main file
   * problem.h and problem.cpp: define functions for constructing models
   * variables.h and variables.cpp: define decision variables of models
 
-* The folder "src_demand_partition_availability" includes codes for problems in Appendix H that determine the share of disloyal consumers based on available vehicles:
+* The folder "src_demand_partition_availability" includes CPP codes for problems in Appendix H that determine the share of disloyal consumers based on available vehicles:
   * basic_parameter.h and basic_parameter.cpp
   * IO.h and IO.cpp
   * main.cpp: main file where Algorithm 1 is applied
   * problem.h and problem.cpp
   * variables.h and variables.cpp
 
-* The folder "src_firms_seperate" includes codes for problems in Appendix G that consider loyal and disloyal consumers separately:
+* The folder "src_firms_separate" includes CPP codes for problems in Appendix G that consider loyal and disloyal consumers separately:
   * basic_parameter.h and basic_parameter.cpp
   * IO.h and IO.cpp
   * main.cpp
