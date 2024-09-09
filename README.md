@@ -1,5 +1,5 @@
 # shared_vehicle_allocation_relocation_iise
-The data and codes in this project are used in the paper named "Integrated Vehicle Allocation and Relocation for Shared Micromobility under Competition and Demand Uncertainty," by by Ziliang Jin, Kai Pan, Zuo-Jun Max Shen, and Wenxin Xu. *IISE Transactions*.
+The data and codes in this project are used in the paper "Integrated Vehicle Allocation and Relocation for Shared Micromobility under Competition and Demand Uncertainty" by Ziliang Jin, Kai Pan, Zuo-Jun Max Shen, and Wenxin Xu. *IISE Transactions*.
 
 ## data
 The folder "data" includes the data used in the paper:
