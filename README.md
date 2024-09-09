@@ -5,9 +5,9 @@ The data and codes in this project are used in the paper named "Integrated Vehic
 The folder "data" includes the data used in the paper:
 * demand.csv: average trip demands
 * period.csv: trip duration across service regions
-* folder proportion: includes $$\phi_{i,t,j}$$, i.e., percentage of all the trips originating from region $$i$$ in period $$t$$ that eventually go to region $$j$$
-* folder demand_cluster: three demand scenarios in $$S$$
-* folder demand_1000: includes all demand scenarios used in Appendix J
+* folder "proportion": includes $$\phi_{i,t,j}$$, i.e., percentage of all the trips originating from region $$i$$ in period $$t$$ that eventually go to region $$j$$
+* folder "demand_cluster": three demand scenarios in $$S$$
+* folder "demand_1000": includes all demand scenarios used in Appendix J
 
 ## code
 * The folder "src_demand_partition_allocation" includes codes for Problems (13) and (14) that determine the share of disloyal consumers based on allocation:
