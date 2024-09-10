@@ -11,7 +11,7 @@ The folder "data" includes the data used in the paper:
 
 ## Code
 * The folder "src_demand_partition_allocation" includes CPP codes for Problems (13) and (14) that determine the share of disloyal consumers based on allocation:
-  * basic_parameter.h and basic_parameter.cpp: define input parameters of models
+  * basic_parameter.h and basic_parameter.cpp: define given parameters of models
   * IO.h and IO.cpp: define functions for input and output
   * main.cpp: main file
   * problem.h and problem.cpp: define functions for constructing models
